@@ -12,7 +12,7 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 
 # Set a variable to hold the GPIO Pin identity
-pinpir = 22
+pinpir = 17
 
 # Set GPIO pin as input
 GPIO.setup(pinpir, GPIO.IN)
